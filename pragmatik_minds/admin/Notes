@@ -1,0 +1,14 @@
+Notes
+
+How It Works
+Admin Login: Admins log in using hardcoded credentials (admin / admin123).
+
+Dashboard: Admins can navigate to manage services or view messages.
+
+Manage Services: Admins can add or delete services.
+
+View Messages: Admins can view all messages submitted via the contact form.
+
+Logout: Admins can log out, which destroys the session.
+
+This admin panel is secure, dynamic, and easy to use.
